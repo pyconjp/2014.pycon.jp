@@ -29,6 +29,20 @@
    * - 連絡先
      - 2014@pycon.jp
 
+運営情報
+--------
+
+PyCon JP 2013 は `PyCon JP 実行委員会`_ PyCon APAC 2013 運営チームによって運営されています。
+
+.. list-table::
+
+   * - 座長
+     - 鈴木 たかのり
+   * - Webサイト
+     - http://www.pycon.jp/
+   * - 連絡先
+     - 2014@pycon.jp
+
 .. _`PyCon JP 実行委員会`: http://www.pycon.jp/committee.html
 
 **ここに英語のコンテンツを書く**
