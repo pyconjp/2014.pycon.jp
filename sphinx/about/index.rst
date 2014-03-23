@@ -68,6 +68,20 @@ The summary of event details as below. We’ll post updates once further details
    * - Contact
      - 2014@pycon.jp
 
+About Organizers
+----------------
+
+PyCon APAC 2014 is being organized by the `PyCon JP Organizing Committee`_.
+
+.. list-table::
+
+   * - Chairperson
+     - Takanori Suzuki
+   * - Web site
+     - http://www.pycon.jp/
+   * - Contact
+     - 2014@pycon.jp
+
 .. _`PyCon JP Organizing Committee`: http://www.pycon.jp/committee.html
 
 .. toctree::
