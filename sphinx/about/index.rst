@@ -47,6 +47,9 @@ PyCon JP 2014 は `PyCon JP 実行委員会`_ PyCon JP 2014 運営チームに�
 
 **ここに英語のコンテンツを書く**
 
+Details
+-------
+
 The summary of event details as below. We’ll post updates once further details confirmed.
 
 .. list-table::
