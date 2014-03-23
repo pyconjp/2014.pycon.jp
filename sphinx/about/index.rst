@@ -32,7 +32,7 @@
 運営情報
 --------
 
-PyCon JP 2014 は `PyCon JP 実行委員会`_ PyCon APAC 2013 運営チームによって運営されています。
+PyCon JP 2014 は `PyCon JP 実行委員会`_ PyCon JP 2014 運営チームによって運営されています。
 
 .. list-table::
 
@@ -64,14 +64,14 @@ The summary of event details as below. We’ll post updates once further details
    * - Participation Fee
      - TBC 
    * - Organizers
-     - `PyCon JP Organizing Committee`_ PyCon APAC 2013 Organizing Committee
+     - `PyCon JP Organizing Committee`_ PyCon JP 2014 Organizing Committee
    * - Contact
      - 2014@pycon.jp
 
 About Organizers
 ----------------
 
-PyCon APAC 2014 is being organized by the `PyCon JP Organizing Committee`_.
+PyCon JP 2014 is being organized by the `PyCon JP Organizing Committee`_.
 
 .. list-table::
 
