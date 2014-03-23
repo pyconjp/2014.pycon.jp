@@ -33,6 +33,29 @@
 
 **ここに英語のコンテンツを書く**
 
+The summary of event details as below. We’ll post updates once further details confirmed.
+
+.. list-table::
+   :widths: 30 70
+   :stub-columns: 1
+
+   * - Conference 
+     - 2014-09-13(Sat)-14(Sun)
+   * - Development Sprints
+     - 2014-09-15(Mon / Public Holiday in Japan)
+   * - Theme
+     - Rediscover with Python
+   * - Participants (Planned)
+     - 500
+   * - Participation Fee
+     - TBC 
+   * - Organizers
+     - `PyCon JP Organizing Committee`_ PyCon APAC 2013 Organizing Committee
+   * - Contact
+     - 2014@pycon.jp
+
+.. _`PyCon JP Organizing Committee`: http://www.pycon.jp/committee.html
+
 .. toctree::
    :maxdepth: 1
 
