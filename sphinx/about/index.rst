@@ -2,6 +2,15 @@
  About
 =======
 
+.. toctree::
+   :maxdepth: 1
+
+   what-is-pycon
+   code-of-conduct
+   staff
+
+-----
+   
 **ここに日本語のコンテンツを書く**
 
 開催概要
@@ -87,10 +96,3 @@ PyCon JP 2014 is being organized by the `PyCon JP Organizing Committee`_.
 
 .. _`PyCon JP Organizing Committee`: http://www.pycon.jp/committee.html
 
-.. toctree::
-   :maxdepth: 1
-
-   what-is-pycon
-   code-of-conduct
-   staff
-   
