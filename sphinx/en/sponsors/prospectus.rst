@@ -74,3 +74,83 @@ PyCon JP 2014 スポンサーシップのご案内
     はい、対応可能です。例えばIDストラップをスポンサーいただく場合、印刷するロゴのデータをお送りいただければ、運営チームで業者とその後の作業を担当いたします。その際には、業者の選定や検品、ロゴの配置・サイズなどは運営チームに委任いただけますようあらかじめご了承いただきます。
 スポンサーセッションやスポンサーLTはありますか？
     PyCon JP 2014からDiamondスポンサーはスポンサーLT枠をご利用いただけるようになりました。講演セッション枠やその他のスポンサー様は、昨年と同様に一般公募のCfPやLT枠の選考にご応募ください。
+
+**ここに英語のコンテンツを書く**
+
+====================================
+PyCon JP 2014 Sponsorship Prospectus
+====================================
+
+PyCon JP 2014 is now announcing that our sponsorship application is available!
+
+PyCon JP is the largest annual gathering for the community in Japan using and developing the open-source Python programming language. The conference draws a diverse delegation of more than 500 people for which it will be a great chance to introduce and promote your business and organization. We are dedicated to providing an enjoyable experience to everyone and your sponsorship helps keep PyCon JP affordable and accessible to the widest possible audience. The available sponsorships are below.
+
+We are looking forward to hearing from you! For further information or other questions, contact us any time by sponsor@pycon.jp.
+
+Sponsor Packages
+----------------
+
++-------------------------------------------------------------+----------------------------------------------------+
+| Diamond Level Sponsor (Limit : 1)                           | Platium Level Sponsor                              |
++=============================================================+====================================================+
+| **1,000,000 yen excl. GST**                                 | **500,000 yen excl. GST**                          |
++-------------------------------------------------------------+----------------------------------------------------+
+| * Large logo placement on panel of main conference room     | * Logo placement on panel of main conference room  |
+| * Logo placement alongside the PyCon JP logo on the T-shirt | * Logo placement on the badge                      |
+| * Logo placement on the badge                               | * Large Logo placement on flyer                    |
+| * Extra large Logo placement on flyer                       | * Large logo placement on main banner              |
+| * Extra large logo placement on main banner                 | * Large space for description on PyCon JP website  |
+| * Extra large space for description on PyCon JP website     | * Large logo on guide                              |
+| * Extra large logo on program guide                         | * Banner ad/additional information on back of seat |
+| * Banner ad/additional information on back of seat          | * Platium sponsor link on PyCon JP website         |
+| * 1 Reserved lighting talk                                  | * Up to 2 tote bag insert (provided by sponsor)    |
+| * Diamond sponsor link on PyCon JP website                  | * 5 free conference registrations                  |
+| * Up to 2 tote bag insert (provided by sponsor)             |                                                    |
+| * 10 free conference registrations                          |                                                    |
++-------------------------------------------------------------+----------------------------------------------------+
+
++---------------------------------------------------+----------------------------------------------------+-------------------------------------------------------------------+
+| Gold Level Sponsor                                | Silver Level Sponsor                               | PyCon JP Patron                                                   |
++===================================================+====================================================+===================================================================+
+| **300,000 yen excl. GST**                         | **100,000 yen excl. GST**                          | **15,000 yen incl. GST(For individuals and start-up businesses)** |
++---------------------------------------------------+----------------------------------------------------+-------------------------------------------------------------------+
+| * Logo placement on flyer                         | * Logo placement on flyer                          | * Space for description on PyCon JP website                       |
+| * Medium logo placement on main banner            | * Logo placement on main banner                    | * Name listing or small logo on PyCon program guide               |
+| * Large space for description on PyCon JP website | * Medium space for description on PyCon JP website | * Patron link on Sponsors page                                    |
+| * Medium logo on program guide                    | * Medium log on program guide                      | * Please register as PyCon JP 2014 Patron when buying ticket.     |
+| * Gold sponsor link on PyCon JP website           | * Silver sponsor link on PyCon JP website          |                                                                   |
+| * Up to 2 tote bag insert (provided by sponsor)   | * Up to 1 tote bag insert (provided by sponsor)    |                                                                   |
+| * 3 free conference registrations                 | * 1 free conference registrations                  |                                                                   |
++---------------------------------------------------+----------------------------------------------------+-------------------------------------------------------------------+
+
+A la carte Options (Can be added to other packages)
+---------------------------------------------------
+
++----------------------------------------------------------+----------------------------------------------------+
+| ID Badge Strap Sponsorship (Limit:1)                     | Tote Bag Sponsorship (Limit:1)                     |
++==========================================================+====================================================+
+| **200,000 yen excl. GST**                                | **150,000 yen excl. GST**                          |
++----------------------------------------------------------+----------------------------------------------------+
+| * Can be added to other sponsorship packages             | * Can be added to other sponsorship packages       |
+| * Provides ID badge strap for PyCon JP 2014 participants | * Provides tote bag for PyCon JP 2014 participants |
+| * Logo placement on ID badge strap                       | * Logo placement on tote bag                       |
++----------------------------------------------------------+----------------------------------------------------+
+
++----------------------------------------------+----------------------------------------------+----------------------------------------------+
+| Soft Drink Sponsorship (Limit:1)             | Coffee Sponsorship (Limit:1)                 | Confection Sponsorship                       |
++==============================================+==============================================+==============================================+
+| **20,000 yen excl. GST**                     | **100,000 yen excl. GST**                    | **50,000 yen excl. GST**                     |
++----------------------------------------------+----------------------------------------------+----------------------------------------------+
+| * Can be added to other sponsorship packages | * Can be added to other sponsorship packages | * Can be added to other sponsorship packages |
+| * Provides soft drink during lunch time      | * Provides coffee during tea time            | * Provides confection during tea time        |
++----------------------------------------------+----------------------------------------------+----------------------------------------------+
+
+Additional Information
+----------------------
+
+Is it possible to choose a la carte option plan without holding any other base sponsorship?
+    A la carte option plans should be packed with other base packages.
+Is it possible to pay optional plan rate instead of prepare content of plan?
+    Yes, we can do it for you. Please send us the file you would like to print on the goodies you sponsored and staff team will take the rest of work. In this case, we would also decide the logo size and other details for you, if there is no further request. Thank you for your understanding.
+Are there any reserved session or LT talk for sponsors?
+    From PyCon JP 2014, a slot of LT talk is reserved for Diamond Sponsor. For all sessions and the rest of LT talks, please apply directly.

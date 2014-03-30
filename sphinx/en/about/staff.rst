@@ -54,3 +54,6 @@ PyCon JP 2014は、大勢のボランティアスタッフに支えられて運�
 --------------------------------
 
 `PyCon JP 2014スタッフ申し込みフォーム <https://docs.google.com/forms/d/1Rosp0qiAaIkMR0-HPJE355K1Tv-OHsjMAx02zfUKWRI/viewform>`_ に必要事項を入力して応募してください。応募後にスタッフから連絡します。
+
+
+**ここに英語のコンテンツを書く**
