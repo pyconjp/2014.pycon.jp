@@ -1,59 +1,83 @@
 ====================================================
- PyCon JP 2014はボランティアスタッフを募集しています
+ PyCon JP 2014 Volunteer Staff Information
 ====================================================
 
-**ここに日本語のコンテンツを書く**
+PyCon JP 2014 is organized and run by volunteers of in the Japanese Python
+community. Won't you join us and make PyCon JP a great experience? You can
+volunteer as much or as little as you can. Please sign up! 
 
-PyCon JP 2014は、大勢のボランティアスタッフに支えられて運営されています。あなたも、私たちと一緒に、素晴らしいイベントを作りませんか？ スタッフは、自分のできる範囲で運営に携わることができます。興味を持った方は、ぜひご応募ください！
+*Since most organization is done by Japanese staff members, we do ask that you
+have some ability and willingness to communicate in Japanese.*
 
-仕事内容について
-----------------
+Staff information
+--------------------
 
-スタッフは以下のチームに分かれています。
+We are looking for volunteer staff for the following teams.
 
-* プログラム
+* Program
 
-  * キーノート・プログラムなど、PyCon JP会期中のコンテンツを取りまとめるチーム
+  * This team handles creating the event theme, setting up the Keynote, as well
+    as deciding on Talk Sessions and schedule.
 
-* 会場
+* Venue
 
-  * 会場の選定・ネットワーク環境の整備など、物理的なものを取りまとめるチーム
+  * The venue team handles deciding on the venue, communicating and resolving
+    issues with the venue, handling operations such as network equipment etc.
 
-* メディア
+* Media/PR
 
-  * 外部への宣伝、情報を出す部分を取りまとめるチーム
+  * The media team handles PR, and communications with the community and world
+    at large. We give lightning talks about PyCon JP, handle the website, and
+    guestbook application contents for the event.
 
-* 事務局
+* Admin
 
-  * 運営全体を取りまとめる調整役のチーム
+  * The Admin staff handles internal communication between teams, accounting,
+    and other miscellaneous tasks.
 
-各チームにリーダー・サブリーダーがいて、彼らの指示の下に作業を行います。
+As a volunteer staff member you will be talking with the team leader and
+sub-leader for your respective team.
 
-指示にないことでも、ポジションに関係なく、どんどん提案することもできます。「今までで最高のPyCon JP」を作るために、ぜひあなたのアイデアを活かしてください！
+Even if you aren't given tasks to do, we certainly value your input and
+suggestions. We would like to make PyCon JP 2014 the best PyCon JP ever so
+please let us know your ideas!
 
-ミーティングの頻度は各チームによって違いますが、基本的に直接集まるミーティングはあまり行わない方針です。
+The number of team meetings varies from team to team but we are currently
+trying to organize online as much as possible.
 
-スタッフの仕事に費やす時間について
+Staff Volunteer Time
 ----------------------------------
 
-スタッフの仕事に費やす時間は、自分の都合に合わせて自由に調整できます。「なるべく深くPyCon JPに関わりたい」人、「仕事・プライベートが忙しいので少しだけ協力したい」人、どなたでも参加できます。月一回のペースでスタッフが集まって、まとまった作業を行うための「作業日」を設けていますが、参加は任意です。
+You can volunteer as many or as few hours as you like. We welcome those who
+would like to spend as much time as is possible helping out, as well as those
+who may have many other obligations and cannot volunteer as much time.
 
-リモートでの参加について
+We also have a "staff work day" every month where staff can get together and
+work through issues quickly.
+
+Remote Communication
 ------------------------
 
-インターネットに繋がっている環境にお住まいであれば、リモートでの参加も問題ありません。
+You can volunteer from anywhere you have an internet connection.
 
-スタッフ同士のコミュニケーションには `Slack <https://slack.com/>`_ 、タスク管理には `JIRA <https://www.atlassian.com/ja/software/jira>`_ を利用しているため、ほとんどの仕事は所在地に関係なく行うことができます。
+We use `Slack <https://slack.com/>`_ as a chat communication tool and `JIRA
+<https://www.atlassian.com/ja/software/jira>`_ for task management. You can do
+almost any kind of volunteer work without regard for location.
 
-スタッフの仕事の雰囲気を知るには
+Joining in
 --------------------------------
 
-月一回の「作業日」は、スタッフ以外でも参加可能です。 `connpass <http://connpass.com/series/137/>`_ 上で告知していますので、こちらに参加してみてください。
+The "staff work day" held every month is open to anyone, even those who are not
+currently staff members. It is a great way to get accustomed to how we work,
+and how much and where you might be able to volunteer your time.
 
-スタッフになるために連絡するには
+We have an event page on `connpass <http://connpass.com/series/137/>`_ so you
+can see when our next staff work day is and register to attend.
+
+So you want to Volunteer!
 --------------------------------
 
-`PyCon JP 2014スタッフ申し込みフォーム <https://docs.google.com/forms/d/1Rosp0qiAaIkMR0-HPJE355K1Tv-OHsjMAx02zfUKWRI/viewform>`_ に必要事項を入力して応募してください。応募後にスタッフから連絡します。
-
-
-**ここに英語のコンテンツを書く**
+Please use the `PyCon JP 2014 Volunteer form
+<https://docs.google.com/forms/d/1Rosp0qiAaIkMR0-HPJE355K1Tv-OHsjMAx02zfUKWRI/viewform>`_
+to give us your information. You will be contacted by a staff person a short
+time later.
