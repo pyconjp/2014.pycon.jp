@@ -1,13 +1,9 @@
-===============
- What is PyCon
-===============
+==================
+What is PyCon
+==================
 
-**ここに日本語のコンテンツを書く**
+PyCon is a conference organized and run by volunteers in the Python community that is dedicated to advancing and promoting the Python programming language. Through holding the PyCon JP conference, Python users can gather and exchange information with other deveopers from a wide variety of fields. It is our aim to create new relationships between the different communities and businesses using Python.
 
-PyConは、Pythonユーザが集まり、PythonやPythonを使ったソフトウェアについて情報交換、交流をするためのカンファレンスです。 PyCon JPの開催を通じて、Pythonの使い手が一同に集まり、Pythonにまつわる様々な分野の知識や情報を交換し、新たな友達やコミュニティとのつながり、仕事やビジネスチャンスを増やせる場所とすることが目標です。
+The theme for PyCon JP 2014 is "Re-discover Python". Through attending the conference, we hope that the attendees can learn new ways of using Python, and new areas within the Python community.
 
-PyCon JP 2014では、「Python で再発見」をテーマに据えました。カンファレンスを通して、Pythonの意外な使い方や、Pythonの活躍できる新たな領域を発見してもらえる場所にしたいと考え、企画を進めています。
-
-今回は、オフィスアワーやポスターセッションの設置など、参加者が様々な形でコミュニケーションができるよう、新たな試みもいくつか検討しています。
-
-**ここに英語のコンテンツを書く**
+This year, we are looking for new ways, such as office hours and poster sessions, for attendees to meet and communicate with each other.
